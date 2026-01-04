@@ -8,7 +8,7 @@ This project develops a **Smart Irrigation Decision Support System** that predic
 To build a reliable ML-based system to help farmers and agricultural planners decide:   
 ✔️ Whether irrigation is required  
 ✔️ How much irrigation is needed  
-✔️ Reduce water wastage and improve crop yield  
+✔️ Reduce water wastage and improve crop yield.  
 
 ---
 
